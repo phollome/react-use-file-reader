@@ -1,2 +1,3 @@
 # react-use-file-reader
-Created with CodeSandbox
+
+Hook to read files.
